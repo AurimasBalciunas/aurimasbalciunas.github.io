@@ -41,7 +41,7 @@ li:not(:last-child) {
 
 .header { 
     font-size: 2.5em;
-    font-family: 'Rock 3D', cursive;
+    font-family: 'Koulen', cursive;
     display: flex;
     justify-content: center;
     align-content: center;
