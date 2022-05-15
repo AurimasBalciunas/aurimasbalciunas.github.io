@@ -63,8 +63,8 @@ li:not(:last-child) {
 
 /* Animation */
 .anim-typewriter{
-  animation: typewriter 2.5s steps(17) 1s 1 normal both,
-             blinkTextCursor 500ms steps(17) infinite normal;
+  animation: typewriter 1.5s steps(17) 1s 1 normal both,
+             blinkTextCursor 750ms steps(17) infinite normal;
 }
 
 @keyframes bg-animation {
